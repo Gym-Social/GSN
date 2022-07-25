@@ -1,2 +1,2 @@
 # GSN
-[] INIT
+[ ] INIT
